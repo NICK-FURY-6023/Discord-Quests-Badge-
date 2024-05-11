@@ -15,6 +15,8 @@ How to use this script:
 5. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> to open DevTools
 6. Go to the `Console` tab
 7. Paste the following code and hit enter:
+> [!NOTE]
+> if you can't paste your code in console then type in console `allow pasting`!
 ```js
 let wpRequire;
 window.webpackChunkdiscord_app.push([[ Math.random() ], {}, (req) => { wpRequire = req; }]);
