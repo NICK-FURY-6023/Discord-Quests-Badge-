@@ -4,7 +4,8 @@
 
 > [!NOTE]
 > This no longer works if you're alone in vc! Somebody else has to join you!
->
+
+![Image Alt Text](https://media.discordapp.net/attachments/1076209252441522256/1238810053147099189/image.png?ex=6640a344&is=663f51c4&hm=eebc33daf3abebf8a70289b8197f59984103ffc99e1d05a382ad8f3aa4a2da65&)
 
 How to use this script:
 1. Accept the quest under User Settings -> Gift Inventory
